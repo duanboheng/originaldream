@@ -1,2 +1,3 @@
 # originaldream
-print('hello world')
+Class duan:
+    print('hello world')
